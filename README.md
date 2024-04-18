@@ -37,7 +37,7 @@ $ npm install
                     "Resource": "arn:aws:logs:*:*:*"
                 }
             ]
-        }```
+        }
     - create an API gateway and choose target as Lambda service.
     - API service will provide a public Endpoint for your lambda function.
 
